@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Hobby's
+  - Hiking
+  - Cycling
+
+1. Hobby's
+  1a. Hiking
+  1b. Cycling
