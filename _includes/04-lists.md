@@ -3,5 +3,5 @@
   - Cycling
 
 1. Hobby's
-  1a. Hiking
-  1b. Cycling
+   1. Hiking
+   2. Cycling
